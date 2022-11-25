@@ -1,7 +1,7 @@
 {
   "name": "@thijmen-os/errormanager",
   "version": "1.0.0",
-  "description": "a module for the thijmenos project",
+  "description": "a module for the thijmen-os project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -12,15 +12,15 @@
     "test": "jest --passWithNoTests"
   },
   "keywords": [
-    "thijmenos"
+    "thijmen-os"
   ],
   "author": "Thijmen Brand",
   "license": "ISC",
   "dependencies": {
-    "@thijmenos/common": "^2.0.3",
-    "@thijmenos/eslint-config": "^1.0.0",
-    "@thijmenos/graphics": "^1.0.4",
-    "@thijmenos/prompt": "^1.0.8"
+    "@thijmen-os/common": "^1.0.0",
+    "@thijmen-os/eslint-config": "^1.0.0",
+    "@thijmen-os/graphics": "^1.0.0",
+    "@thijmen-os/prompt": "^1.0.0"
   },
   "devDependencies": {
     "typescript": "^4.8.4",

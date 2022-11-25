@@ -1,4 +1,4 @@
-import Prompt from "@thijmenos/prompt";
+import Prompt from "@thijmen-os/prompt";
 
 function NoAppForFiletypeError() {
   new Prompt.noAppForFiletype();

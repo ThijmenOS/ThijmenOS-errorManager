@@ -1,4 +1,4 @@
-import { AddElement, CreateElementFromString } from "@thijmenos/graphics";
+import { AddElement, CreateElementFromString } from "@thijmen-os/graphics";
 import { fatalError } from "../defaults";
 
 function FatalError() {
