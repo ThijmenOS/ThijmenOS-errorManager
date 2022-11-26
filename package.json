@@ -1,6 +1,6 @@
 {
   "name": "@thijmen-os/errormanager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a module for the thijmen-os project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
