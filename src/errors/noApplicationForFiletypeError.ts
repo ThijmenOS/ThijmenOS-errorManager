@@ -1,7 +1,7 @@
-import Prompt from "@thijmen-os/prompt";
+import { NoAppForFiletype } from "@thijmen-os/prompt";
 
 function NoAppForFiletypeError() {
-  new Prompt.noAppForFiletype();
+  new NoAppForFiletype();
 }
 
 export default NoAppForFiletypeError;
