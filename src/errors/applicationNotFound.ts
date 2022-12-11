@@ -1,7 +1,8 @@
-import Prompt from "@thijmen-os/prompt";
+import { ApplicationNotFound } from "@thijmen-os/prompt";
+("@thijmen-os/prompt");
 
 function ApplicationNotFoundError() {
-  new Prompt.applicationNotFound();
+  new ApplicationNotFound();
 
   throw new Error("The application could not be found!");
 }
